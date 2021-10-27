@@ -1,5 +1,5 @@
 # Welcome to Leyan's portfolio website !
-A Portfolio website developed by PHP/Javascript/Laravel Framework; future development: database, React...
+A Portfolio website developed by PHP/Javascript/Laravel Framework (in developing);
 
 # Getting Started
 Fork this repository and run this in your directory: <br />
